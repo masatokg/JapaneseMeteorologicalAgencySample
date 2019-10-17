@@ -1,0 +1,2 @@
+# JapaneseMeteorologicalAgencySample
+気象庁サンプルデータ
